@@ -14,3 +14,12 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ## Overview
 
 This is a simple Frontend Mentor project to replicate a given design of a QR code graphic with CSS and HTML.
+
+### Screenshot
+
+![](https://github.com/sorryshady/qr-code-challenge/blob/main/screenshot.png)
+
+### Links
+
+- Solution URL: [Solution](https://github.com/sorryshady/qr-code-challenge)
+- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
